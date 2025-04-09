@@ -174,3 +174,5 @@ The `output.tf` files in each module play a crucial role in passing data between
 ## Conclusion
 
 This repository demonstrates how to efficiently manage and deploy infrastructure across multiple environments using Terraform modules. By breaking infrastructure code into reusable modules, we reduce complexity, manual work, and potential errors, leading to a more scalable and maintainable solution.
+
+Credits: [Sai](https://github.com/saikiranpi)
